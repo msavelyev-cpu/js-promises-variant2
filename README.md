@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/7835ff22-a55e-4d4e-8e88-74567aae9510
+
+
+
 # Основи програмування мовою JavaScript
 
 ## Практична робота №10
